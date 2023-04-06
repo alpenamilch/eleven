@@ -1,0 +1,15 @@
+build
+/bin/
+/build/
+/gen/
+/local.properties
+
+*.iml
+**~
+**.DS_Store
+.gradle/
+.idea/
+
+# apk export folders
+/debug/
+/release/
